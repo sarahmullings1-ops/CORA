@@ -2,7 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .env
-.env.*
 *.egg-info/
 dist/
 .DS_Store
+#.env.* - not sure if i need this yet
